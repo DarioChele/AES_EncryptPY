@@ -1,0 +1,38 @@
+{    
+    "en": {
+        "menu": "Menu:",
+        "generate_key": "Generate key",
+        "encrypt_text": "Encrypt text",
+        "decrypt_text": "Decrypt text",
+        "exit": "Exit",
+        "enter_key": "Enter the key: ",
+        "enter_text": "Enter the text: ",
+        "choose_option": "Choose Option: ",
+        "inSecureKey":"Insert secure key: ",
+        "inTextEncrypt":"Type text to encrypt: ",
+        "inTextDecrypt":"Type text to Decrypt: ",
+        "generated_key":"Generated Key",
+        "encrypted_text": "Encrypted Text",
+        "decrypted_text": "Decrypted Text",
+        "closing": "Closing",
+        "noValid": "Invalid option, Try again"
+    },
+    "es": {
+        "menu": "Menú:",
+        "generate_key": "Generar clave",
+        "encrypt_text": "Encriptar texto",
+        "decrypt_text": "Desencriptar texto",
+        "exit": "Salir",
+        "enter_key": "Ingrese la clave:",
+        "enter_text": "Ingrese el texto:",
+        "choose_option": "Selecciona una opción:",        
+        "inSecureKey":"Ingrese llave de seguridad:",
+        "inTextEncrypt":"Ingrese el texto a encriptar:",
+        "inTextDecrypt":"Ingrese el texto a Desencriptar:",
+        "generated_key":"Clave generada",
+        "encrypted_text": "Texto Encriptado",
+        "decrypted_text": "Texto Desencriptado",
+        "closing": "Saliendo",
+        "noValid": "Opcion NO valida, intente nuevamente"
+    }
+}
